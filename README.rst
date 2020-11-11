@@ -3,6 +3,8 @@ CustomOperators
 
 This module allows you to use operators specified by you.
 
+**The module is in very early alpha, bugs will most likely occur**
+
 Setup
 -----
 
