@@ -67,5 +67,5 @@ Example:
     Module.run()    #Output: 1024
 
 **For more information about usage (operator overloading, operator
-rules), check out the `wiki
-page <https://github.com/Qkrisi/python-custom-operators/wiki>`__**
+rules), check out the** `wiki
+page <https://github.com/Qkrisi/python-custom-operators/wiki>`__
