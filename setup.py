@@ -11,8 +11,8 @@ setup(
   license='MIT',
   description = 'Custom operator implementation in Python',
   long_description=local_file('README.md'),
-  author = 'Qkrisi'
-  author_email = 'qruczkristof@gmail.com'
+  author = 'Qkrisi',
+  author_email = 'qruczkristof@gmail.com',
   url = 'https://github.com/qkrisi/python-custom-operators',
   download_url = 'https://github.com/qkrisi/python-custom-operators/archive/v_0_1.tar.gz',
   keywords = ['Operator'],
