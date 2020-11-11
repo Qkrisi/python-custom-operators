@@ -7,14 +7,14 @@ local_file = lambda f: \
 setup(
   name = 'CustomOperators',
   packages = ['CustomOperators'],
-  version = '0.1',
+  version = '0.2',
   license='MIT',
   description = 'Custom operator implementation in Python',
   long_description=local_file('README.md'),
   author = 'Qkrisi',
   author_email = 'qruczkristof@gmail.com',
   url = 'https://github.com/qkrisi/python-custom-operators',
-  download_url = 'https://github.com/qkrisi/python-custom-operators/archive/v_0_1.tar.gz',
+  download_url = 'https://github.com/qkrisi/python-custom-operators/archive/v_0_2.tar.gz',
   keywords = ['Operator'],
   install_requires=[],
   classifiers=[
